@@ -1,0 +1,6 @@
+C:\Users\Matt\Documents\GitHub\Program_Projects\Numbers\FibonacciSequence\FibonacciSequence\bin\Debug\FibonacciSequence.exe.config
+C:\Users\Matt\Documents\GitHub\Program_Projects\Numbers\FibonacciSequence\FibonacciSequence\bin\Debug\FibonacciSequence.exe
+C:\Users\Matt\Documents\GitHub\Program_Projects\Numbers\FibonacciSequence\FibonacciSequence\bin\Debug\FibonacciSequence.pdb
+C:\Users\Matt\Documents\GitHub\Program_Projects\Numbers\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\GitHub\Program_Projects\Numbers\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.exe
+C:\Users\Matt\Documents\GitHub\Program_Projects\Numbers\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.pdb
