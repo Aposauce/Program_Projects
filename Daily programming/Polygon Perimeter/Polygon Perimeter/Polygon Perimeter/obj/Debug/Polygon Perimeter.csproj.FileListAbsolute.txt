@@ -1,0 +1,6 @@
+C:\Users\Matt\Documents\GitHub\Program_Projects\Daily programming\Polygon Perimeter\Polygon Perimeter\Polygon Perimeter\bin\Debug\Polygon Perimeter.exe.config
+C:\Users\Matt\Documents\GitHub\Program_Projects\Daily programming\Polygon Perimeter\Polygon Perimeter\Polygon Perimeter\bin\Debug\Polygon Perimeter.exe
+C:\Users\Matt\Documents\GitHub\Program_Projects\Daily programming\Polygon Perimeter\Polygon Perimeter\Polygon Perimeter\bin\Debug\Polygon Perimeter.pdb
+C:\Users\Matt\Documents\GitHub\Program_Projects\Daily programming\Polygon Perimeter\Polygon Perimeter\Polygon Perimeter\obj\Debug\Polygon Perimeter.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\GitHub\Program_Projects\Daily programming\Polygon Perimeter\Polygon Perimeter\Polygon Perimeter\obj\Debug\Polygon Perimeter.exe
+C:\Users\Matt\Documents\GitHub\Program_Projects\Daily programming\Polygon Perimeter\Polygon Perimeter\Polygon Perimeter\obj\Debug\Polygon Perimeter.pdb
