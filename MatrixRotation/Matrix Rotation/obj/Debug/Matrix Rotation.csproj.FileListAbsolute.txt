@@ -1,0 +1,5 @@
+C:\Users\Matt\Documents\GitHub\Practice_Programming\MatrixRotation\Matrix Rotation\bin\Debug\Matrix Rotation.exe.config
+C:\Users\Matt\Documents\GitHub\Practice_Programming\MatrixRotation\Matrix Rotation\bin\Debug\Matrix Rotation.exe
+C:\Users\Matt\Documents\GitHub\Practice_Programming\MatrixRotation\Matrix Rotation\bin\Debug\Matrix Rotation.pdb
+C:\Users\Matt\Documents\GitHub\Practice_Programming\MatrixRotation\Matrix Rotation\obj\Debug\Matrix Rotation.exe
+C:\Users\Matt\Documents\GitHub\Practice_Programming\MatrixRotation\Matrix Rotation\obj\Debug\Matrix Rotation.pdb
